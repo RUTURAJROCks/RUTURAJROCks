@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DSA for placements.<br>👯 I’m looking to collaborate on making useful tools or simple agents.<br>🤝 I’m looking for help with backend and LLMs.<br>💬 Ask me about DSA, AI and CS subjects.<br>⚡ Universe runs on simulation but I don't have the root access.
+🔭 I’m currently working on RAG and AI Agents.<br>👯 I’m looking to collaborate on making useful tools and simple agents.<br>🤝 I’m constantly learning about backend and LLMs.<br>💬 Ask me about DSA, AI and CS subjects.<br>⚡ Universe runs on simulation but I don't have the root access.
 
 
 ## 🌐 Socials:
